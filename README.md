@@ -1,7 +1,7 @@
-# kalkulator
-Script kalkulator buat ngitung rasa cintaku>&lt;
-# ARSPLOIT
-Gw Liatin Lu Ajc
+# SCRIPT KALKULATOR
+Script kalkulator buat ngitung rasa cintaku padamu>&lt;
+
+Gw Liatin Lu Ajc Biar Lu Gk Recode
 ![ss](https://github.com/ariszywlafa1/crackFB/blob/main/1200px-Tux.svg.png)
 <p align="left">
 <a href="#"><img title="By ARSPLOIT" src="https://img.shields.io/badge/AUTHOR:%20ARSPLOIT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> 
