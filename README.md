@@ -9,8 +9,10 @@ Gw Liatin Lu Ajc Biar Lu Gk Recode
 
 # SCRIPT NYA
 ```php
+PASANG YANG BENER TOD BIAR GK 2 + 2 = 9
 •pkg update && pkg upgrade
 •pkg install python
+•pkg install figlet
 •pip install requests
 •pip install mechanize
 •pip install bs4
