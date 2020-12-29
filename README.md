@@ -5,7 +5,7 @@ Gw Liatin Lu Ajc Biar Lu Gk Recode
 ![ss](https://www.google.com/imgres?imgurl=https://i.pinimg.com/originals/b9/7d/c2/b97dc288d71e7938c1ce8b7faacdc9ac.gif&imgrefurl=https://www.pinterest.com/pin/592504894718777530/&docid=izvGNnAzDboxhM&tbnid=-arkNwSZEHcIcM&vet=1&w=800&h=600&source=sh/x/im)
 <p align="left">
 <a href="#"><img title="By ARSPLOIT" src="https://img.shields.io/badge/AUTHOR:%20ARSPLOIT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=ariszywlafa1&show_icons=true&theme=tokyonight alt=ariszywlafa1 /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=ariszulwafa&show_icons=true&theme=tokyonight alt=ariszulwafa /> </p>
 
 # SCRIPT NYA
 ```php
