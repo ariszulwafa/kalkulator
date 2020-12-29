@@ -1,8 +1,6 @@
 # SCRIPT KALKULATOR
 Script kalkulator buat ngitung rasa cintaku padamu>&lt;
 
-Gw Liatin Lu Ajc Biar Lu Gk Recode
-![ss](https://www.pinterest.com/pin/592504894718777530/&docid=izvGNnAzDboxhM&tbnid=-arkNwSZEHcIcM&vet=1&w=800&h=600&source=sh/x/im)
 <p align="left">
 <a href="#"><img title="By ARSPLOIT" src="https://img.shields.io/badge/AUTHOR:%20ARSPLOIT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=ariszulwafa&show_icons=true&theme=tokyonight alt=ariszulwafa /> </p>
