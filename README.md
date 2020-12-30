@@ -15,7 +15,7 @@ PASANG YANG BENER TOD BIAR GK 2 + 2 = 9
 •pip install mechanize
 •pip install bs4
 •pkg install git
-•git clone https://github.com/ariszywlafa1/kalkulator
+•git clone https://github.com/ariszulwafa/kalkulator
 •cd kalkulator
 •python kalkulator.py
 
